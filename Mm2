@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(“https://flexushub-scripts.vercel.app/api/loader"))()
